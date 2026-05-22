@@ -1,0 +1,2 @@
+This repository contains code used in the processing, analysis, and presentation of data for generated within the SCIMAP research project funded by the Dutch Research Council (OCENW.GROOT.2019.079).
+This pertains only to the data presented in the manuscript titled: "Nuclear Factor I genes drive chondrogenic cell-fate commitment" by Rick Mulders, Mathew Nickel-Maunu, Marcella van Hoolwerff, Giorgia Mazzini, Lucas Jansen Klomp, Hil Meijer, Janine Post, Yolande F. M. Ramos, and Ingrid Meulenbelt
